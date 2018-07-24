@@ -1,4 +1,4 @@
-# **Constructor Word Guess Game ** #
+# **Constructor Word Guess Game** #
 
 This app is a Word Guess command-line game using constructor functions.
 
